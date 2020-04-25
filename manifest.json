@@ -1,0 +1,38 @@
+{
+  "name": "Toko Mushab",
+  "short_name": "Toko Mushab",
+  "start_url": "https://www.tokomushab.xyz",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#424a56",
+  "description": "Blog yang mengulas berbagai tutorial android, komputer, printer, website, dan tutorial digital lainnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s48/tokomushab.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s72/tokomushab.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s96/tokomushab.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s144/tokomushab.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s168/tokomushab.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s192/tokomushab.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s512/tokomushab.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
