@@ -1,37 +1,37 @@
 {
-  "name": "Toko Mushab",
-  "short_name": "Toko Mushab",
-  "start_url": "https://www.tokomushab.xyz",
+  "name": "MushabTV",
+  "short_name": "MushabTV",
+  "start_url": "https://mushabtivi.blogspot.com",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#424a56",
-  "description": "Website Online Shop, Menyediakan berbagai produk dari para penjual yang terpercaya",
+  "theme_color": "#fff",
+  "description": "web streaming video kajian islam, belajar bahasa arab, siroh nabawi dan kajian tauhid",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s48/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s48/MushabTV.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s72/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s72/MushabTV.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s96/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s96/MushabTV.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s144/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s144/MushabTV.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s168/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s168/MushabTV.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s192/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s192/MushabTV.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-NOJvGgXxb10/XqRQmItDz6I/AAAAAAAACxo/am24qVy7I8Ye7YGf8my1lVBjIuFMmn9-ACLcBGAsYHQ/s512/tokomushab.png",
+    "src": "https://1.bp.blogspot.com/-sbFfdXHvoz0/Xs0JGg5ZStI/AAAAAAAAC_Q/Io5WS6MOYdMuEyYB6iESW-aTm6QYjnk5gCPcBGAYYCw/s512/MushabTV.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
