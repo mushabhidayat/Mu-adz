@@ -1,7 +1,7 @@
 {
-  "name": "MUSHABTV",
+  "name": "TV.Mushab.or.ID",
   "short_name": "MUSHABTV",
-  "start_url": "https://www.mushab.xyz",
+  "start_url": "https://tv.mushab.or.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
